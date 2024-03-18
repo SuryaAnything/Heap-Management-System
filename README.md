@@ -13,11 +13,11 @@ This project implements a heap management system in C, providing functionalities
 
 ## Introduction
 
-The heap management system consists of a header file (`heap.h`) and an implementation file (`cHEAP.c`). It includes functionalities to allocate, deallocate, and inspect memory blocks within a fixed-size memory pool.
+The heap management system consists of a header file (`cHEAP.h`) and an implementation file (`cHEAP.c`). It includes functionalities to allocate, deallocate, and inspect memory blocks within a fixed-size memory pool.
 
 ## Components
 
-- **Header File (`heap.h`)**:
+- **Header File (`cHEAP.h`)**:
   - Defines constants, data types, and function prototypes.
   - Contains macros for error handling.
 
