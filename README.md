@@ -9,7 +9,6 @@ This project implements a heap management system in C, providing functionalities
 3. [Memory Management Functions](#memory-management-functions)
 4. [Error Handling](#error-handling)
 5. [Usage](#usage)
-6. [Contributing](#contributing)
 
 ## Introduction
 
